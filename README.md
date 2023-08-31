@@ -1,4 +1,10 @@
 #  Word Sense Induction with Hierarchical Clustering and Mutual Information Maximization (MIM)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 This repository contains the code to reporoduce the results of the paper "Word Sense Induction with Hierarchical Clustering and Mutual Information Maximization" by Hadi Abdine, Moussa Kamal Eddine, Michalis Vazirgiannis and Davide Buscaldi.
 
